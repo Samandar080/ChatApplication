@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466825601360",
+    "project_id": "chatgfg-e7b71",
+    "storage_bucket": "chatgfg-e7b71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466825601360:android:5c1639a4debf89f0abcc55",
+        "android_client_info": {
+          "package_name": "com.developer.samandar.chatgfg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466825601360-4qpsc0g5qku9cmto0mkq938ilio85tve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJcVXf5P9QQi8jc0nTd_hxk2Ouyq9TDNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466825601360-4qpsc0g5qku9cmto0mkq938ilio85tve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
